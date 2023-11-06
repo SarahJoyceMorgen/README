@@ -1,7 +1,7 @@
 # Something about me:
 ##This is the descrition about me: 
 
-Hello, my name is Sarah. I currently live with my family in Herten. I am looking forward to the time in the *bootcamp*!
+Hello, my name is Sarah. I currently live with my family in Herten. I am looking forward to the time in the *bootcamp* !
 My hobbies are:
 
 -like to travel
